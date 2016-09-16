@@ -4,7 +4,7 @@ https://github.com/yingnansong/pydouyu
 结巴分词
 https://github.com/fxsjy/jieba
 
-统计字符串出现次数
+统计字符串出现次数  \n
 grep -o objStr  filename|wc -l
 如果是多个字符串出现次数，可使用：
 
