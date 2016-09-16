@@ -12,3 +12,8 @@ grep -o objStr  filename|wc -l
 
 1
 grep -o ‘objStr1\|objStr2'  filename|wc -l  #直接用\| 链接起来即可
+
+
+python getdm.py
+python fenci.py
+python keywords.py test.txt -k 5 -w 1
