@@ -17,3 +17,10 @@ grep -o ‘objStr1\|objStr2'  filename|wc -l  #直接用\| 链接起来即可
 python getdm.py
 python fenci.py
 python keywords.py test.txt -k 5 -w 1
+
+
+
+
+with open('1898q.txt', 'a+') as f:
+            print>>f,total
+
